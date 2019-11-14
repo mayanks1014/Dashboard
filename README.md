@@ -1,0 +1,2 @@
+# Dashboard
+Highchart Dashboard App
